@@ -1,7 +1,7 @@
 Hi 👋 My name is Björn Kottner
 ==============================
 
-Senior Software Engineer
+Lead Software Engineer
 ------------------------
 
 As a software engineer, I enjoy finding an adequate solution for a problem. I love working in an agile way to learn and improve the solution continuously. This allows to see the achievements of our work and bring meaning into our day-to-day work.
